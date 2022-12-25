@@ -1,0 +1,17 @@
+#! /bin/bash
+echo " i-love you piu sona"
+
+echo "before using this tool please make
+sure you are in @ super user mood on your terminal @"
+
+ apt-get update  -y
+ apt-get upgrade  -y
+ apt-get install python -y 
+ apt-get install python2 -y
+ apt-get install python3 -y
+ apt-get install php -y
+ apt-get install ruby -y
+ apt-get install curl -y
+ apt-get install wget -y
+ apt-get install git -y 
+ apt-get install perl -y
